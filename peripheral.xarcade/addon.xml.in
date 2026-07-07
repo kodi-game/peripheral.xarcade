@@ -20,6 +20,7 @@
         <summary lang="af_ZA">X-Arcade Tankstick drywer</summary>
         <summary lang="bs_BA">Upravljač X-Arcade Tankstick-a</summary>
         <summary lang="ca_ES">Controlador X-Arcade Tankstick</summary>
+        <summary lang="cs_CZ">Ovladač X-Arcade Tankstick</summary>
         <summary lang="da_DK">X-Arcade Tankstick driver</summary>
         <summary lang="de_DE">Treiber für X-Arcade Tankstick</summary>
         <summary lang="en_GB">X-Arcade Tankstick driver</summary>
@@ -44,6 +45,7 @@
         <description lang="af_ZA">Hierdie drywer stel intree vanaf die X-Arcade Tankstick in staat.[CR][CR]&apos;n udev reël word benodig. Sien https://kodi.wiki/view/Tankstick</description>
         <description lang="bs_BA">Ovaj upravljač omogućava unos iz X-Arcade Tankstick-a.[CR][CR]Potrebno je udev pravilo. Pogledajte https://kodi.wiki/view/Tankstick</description>
         <description lang="ca_ES">Aquest controlador permet l&apos;entrada de l&apos;X-Arcade Tankstick.[CR][CR]Es necessita una regla udev. Consulta https://kodi.wiki/view/Tankstick</description>
+        <description lang="cs_CZ">Tento ovladač umožňuje vstup ze zařízení X-Arcade Tankstick.[CR][CR]Je potřeba pravidlo udev. Viz https://kodi.wiki/view/Tankstick</description>
         <description lang="da_DK">Denne driver muliggør input fra X-Arcade Tankstick.[CR][CR]En udev-regel er nødvendig. Se https://kodi.wiki/view/Tankstick</description>
         <description lang="de_DE">Dieser Treiber ermöglicht Eingaben mit dem X-Arcade Tankstick.[CR][CR]Eine udev-Regel wird benötigt. Weitere Informationen unter https://kodi.wiki/view/Tankstick</description>
         <description lang="en_GB">This driver enables input from the X-Arcade Tankstick.[CR][CR]A udev rule is needed. See https://kodi.wiki/view/Tankstick</description>
